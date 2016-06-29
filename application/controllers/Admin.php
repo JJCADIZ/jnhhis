@@ -10,6 +10,7 @@
         }
       }else{
         redirect(base_url());
+        //test
       }
     }
 
